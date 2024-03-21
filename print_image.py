@@ -5,6 +5,7 @@ Part B
 
 This program prints a cat image as text.
 """
+# Use the pillow image library
 from PIL import Image
 
 IMAGE_FILE='cat.png'
